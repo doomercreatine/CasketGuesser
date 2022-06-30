@@ -11,6 +11,8 @@ import plotly.graph_objects as go
 import plotly.figure_factory as ff
 from scipy import stats
 import math
+import warnings
+warnings.filterwarnings("ignore", message=r"Passing", category=FutureWarning)
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
@@ -28,8 +30,6 @@ with open("item_prices.json", "r") as f:
 with open("item_ids.json", "r") as f:
     items = json.loads(f.read())
 
-items = {k.lower(): v for k, v in items.items()}
-tables['Item'] = tables['Item'].str.lower()
 def get_rates(df):
     rolls = []
     for _, row in df.iterrows():
