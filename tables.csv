@@ -1,0 +1,189 @@
+Table,Item,Amount,Random,Weight
+Start,Rare,Table,,1
+Start,Standard,Table,,22
+Standard,Coins,20000,15000,1
+Standard,Manta ray,15,10,1
+Standard,Nature rune,100,100,1
+Standard,Death rune,100,100,1
+Standard,Blood rune,100,100,1
+Standard,Soul rune,100,100,1
+Standard,Limpwurt root,40,20,1
+Standard,Purple sweets,14,19,1
+Standard,Runite ore,5,3,1
+Standard,Wine of zamorak,35,15,1
+Standard,Grimy toadflax,25,10,1
+Standard,Grimy ranarr weed,5,5,1
+Standard,Grimy snapdragon,5,5,1
+Standard,Runite bar,5,2,1
+Standard,Onyx bolts (e),15,10,1
+Standard,Dragon dagger,1,,1
+Standard,Dragon longsword,1,,1
+Standard,Dragon battleaxe,1,,1
+Standard,Dragon scimitar,1,,1
+Standard,Dragon halberd,1,,1
+Standard,Black dragonhide,5,20,1
+Standard,Dragon mace,1,,1
+Standard,Prayer page table,Table,,1
+Standard,Firelighter table,Table,,1
+Standard,Teleport scroll table,Table,,2
+Standard,Master seed table,Table,,1
+Standard,Give half key table,Table,,1
+Standard,Blessing table,Table,,1
+Rare,Eye patch,1,,1
+Rare,Bowl wig,1,,1
+Rare,Ale of the gods,1,,1
+Rare,Half moon spectacles,1,,1
+Rare,Fancy tiara,1,,1
+Rare,Hood of darkness,1,,1
+Rare,Robe top of darkness,1,,1
+Rare,Gloves of darkness,1,,1
+Rare,Robe bottom of darkness,1,,1
+Rare,Boots of darkness,1,,1
+Rare,Obsidian cape (r),1,,1
+Rare,Occult ornament kit,1,,1
+Rare,Torture ornament kit,1,,1
+Rare,Dragon defender ornament kit,1,,1
+Rare,Samurai kasa,1,,1
+Rare,Samurai shirt,1,,1
+Rare,Samurai greaves,1,,1
+Rare,Samurai boots,1,,1
+Rare,Samurai gloves,1,,1
+Rare,Arceuus hood,1,,1
+Rare,Hosidius hood,1,,1
+Rare,Lovakengj hood,1,,1
+Rare,Piscarilius hood,1,,1
+Rare,Shayzien hood,1,,1
+Rare,Lesser demon mask,1,,1
+Rare,Greater demon mask,1,,1
+Rare,Black demon mask,1,,1
+Rare,Jungle demon mask,1,,1
+Rare,Old demon mask,1,,1
+Rare,Anguish orn kit,1,,1
+Rare,Tormented orn kit,1,,1
+Rare,Master mega rare,Table,,1
+Rare,Prayer page table,Table,,1
+Rare,Master God sword orn table,Table,,1
+Rare,Master Ankou outfit table,Table,,1
+Rare,Master Mummy outfit table,Table,,1
+Rare,Master Dragon orn table,Table,,1
+Master mega rare,Gilded scimitar,1,,1
+Master mega rare,Bucket helm (g),1,,1
+Master mega rare,Gilded boots,1,,1
+Master mega rare,Ring of coins,1,,1
+Master mega rare,Cabbage,3,,1
+Master mega rare,Anti-venom+(4),15,,1
+Master mega rare,Torstole,50,,1
+Master mega rare,Gilded coif,1,,1
+Master mega rare,Gilded d'hide vamb,1,,1
+Master mega rare,Gilded d'hide top,1,,1
+Master mega rare,Gilded d'hide chaps,1,,1
+Master mega rare,Gilded d'hide Pickaxe,1,,1
+Master mega rare,Gilded d'hide Axe,1,,1
+Master mega rare,Gilded spade,1,,1
+Master mega rare,Master 3rdage table,Table,,1
+Master mega rare,Gilded table,Table,,1
+Master 3rdage table,3rd Age range coif,1,,1
+Master 3rdage table,3rd Age range top,1,,1
+Master 3rdage table,3rd Age range legs,1,,1
+Master 3rdage table,3rd Age vambraces,1,,1
+Master 3rdage table,3rd Age robe top,1,,1
+Master 3rdage table,3rd Age robe,1,,1
+Master 3rdage table,3rd Age mage hat,1,,1
+Master 3rdage table,3rd Age amulet,1,,1
+Master 3rdage table,3rd Age platelegs,1,,1
+Master 3rdage table,3rd Age platebody,1,,1
+Master 3rdage table,3rd Age full helmet,1,,1
+Master 3rdage table,3rd Age plateskirt,1,,1
+Master 3rdage table,3rd Age kiteshield,1,,1
+Master 3rdage table,3rd Age Sword,1,,1
+Master 3rdage table,3rd Age Cape,1,,1
+Master 3rdage table,3rd Age Wand,1,,1
+Master 3rdage table,3rd Age Bow,1,,1
+Master 3rdage table,3rd Age Druidic Staff,1,,1
+Master 3rdage table,3rd Age Druidic Cloak,1,,1
+Master 3rdage table,3rd Age Druidic top,1,,1
+Master 3rdage table,3rd Age Druidic bottom,1,,1
+Master 3rdage table,3rd Age Pickaxe,1,,1
+Master 3rdage table,3rd Age Axe,1,,1
+Master God sword orn table,Ags orn kit,1,,1
+Master God sword orn table,Bgs orn kit,1,,1
+Master God sword orn table,Zgs orn kit,1,,1
+Master God sword orn table,Sgs orn kit,1,,1
+Master Ankou outfit table,Coins,15000,15000,2
+Master Ankou outfit table,Ankou Outfit,Table,,1
+Ankou Outfit,Ankou head,1,,1
+Ankou Outfit,Ankou body,1,,1
+Ankou Outfit,Ankou legs,1,,1
+Ankou Outfit,Ankou feet,1,,1
+Ankou Outfit,Ankou hands,1,,1
+Master Mummy outfit table,Coins,15000,15000,2
+Master Mummy outfit table,Mummy Outfit,Table,,1
+Mummy Outfit,Mummy head,1,,1
+Mummy Outfit,Mummy body,1,,1
+Mummy Outfit,Mummy legs,1,,1
+Mummy Outfit,Mummy feet,1,,1
+Mummy Outfit,Mummy hands,1,,1
+Master Dragon orn table,Coins,15000,15000,9
+Master Dragon orn table,Dragon Orn Table,Table,,1
+Dragon Orn Table,Dragon kiteshield orn kit,1,,1
+Dragon Orn Table,Dragon platebody orn kit,1,,2
+Master seed table,Magic seed,1,1,1
+Master seed table,Yew seed,1,1,1
+Master seed table,Palm tree seed,1,1,1
+Firelighter table,Red firelighter,20-38,,1
+Firelighter table,Green firelighter,20-38,,1
+Firelighter table,Blue firelighter,20-38,,1
+Firelighter table,Purple firelighter,20-38,,1
+Firelighter table,White firelighter,20-38,,1
+Prayer page table,Saradomin page 1,1,,1
+Prayer page table,Saradomin page 2,1,,1
+Prayer page table,Saradomin page 3,1,,1
+Prayer page table,Saradomin page 4,1,,1
+Prayer page table,Zamorak page 1,1,,1
+Prayer page table,Zamorak page 2,1,,1
+Prayer page table,Zamorak page 3,1,,1
+Prayer page table,Zamorak page 4,1,,1
+Prayer page table,Guthix page 1,1,,1
+Prayer page table,Guthix page 2,1,,1
+Prayer page table,Guthix page 3,1,,1
+Prayer page table,Guthix page 4,1,,1
+Prayer page table,Bandos page 1,1,,1
+Prayer page table,Bandos page 2,1,,1
+Prayer page table,Bandos page 3,1,,1
+Prayer page table,Bandos page 4,1,,1
+Prayer page table,Armadyl page 1,1,,1
+Prayer page table,Armadyl page 2,1,,1
+Prayer page table,Armadyl page 3,1,,1
+Prayer page table,Armadyl page 4,1,,1
+Prayer page table,Ancient page 1,1,,1
+Prayer page table,Ancient page 2,1,,1
+Prayer page table,Ancient page 3,1,,1
+Prayer page table,Ancient page 4,1,,1
+Teleport scroll table,Master scroll book (empty),1,,1
+Teleport scroll table,TP Scroll,Table,,21
+TP Scroll,Nardah teleport,5,10,1
+TP Scroll,Mos le'harmless teleport,5,10,1
+TP Scroll,Mortton teleport,5,10,1
+TP Scroll,Feldip hills teleport,5,10,1
+TP Scroll,Lunar isle teleport,5,10,1
+TP Scroll,Digsite teleport,5,10,1
+TP Scroll,Piscatoris teleport,5,10,1
+TP Scroll,Pest control teleport,5,10,1
+TP Scroll,Tai bwo wannai teleport,5,10,1
+TP Scroll,Lumberyard teleport,5,10,1
+TP Scroll,Charge dragonstone scroll,5,10,1
+TP Scroll,Elf camp teleport,5,10,1
+Give half key table,Loop half of key,1,,1
+Give half key table,Tooth half of key,1,,1
+Blessing table,Holy blessing,1,,1
+Blessing table,Unholy blessing,1,,1
+Blessing table,Peaceful blessing,1,,1
+Blessing table,Ancient blessing,1,,1
+Blessing table,War blessing,1,,1
+Blessing table,Honourable blessing,1,,1
+Blessing table,Coins,10000,5000,7
+Blessing table,Purple sweets,8,4,7
+Pet Table,Bloodhound,1,,1
+Pet Table,No,1,,999
+Mimic,Yes,1,,1
+Mimic,No,1,,14
