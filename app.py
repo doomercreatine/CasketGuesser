@@ -81,13 +81,15 @@ app.layout = html.Div([
         filter_options={'case': 'insensitive'},
         style_cell={'textAlign': 'center', 'background': '#222'}
     ),
-    html.Button('New Prediction', id='submit-val', n_clicks=0, style={'marginLeft': '50%'})
+    html.Div([html.Button('New Prediction', id='submit-val', n_clicks=0, style={"display": "inline-block"})], style={'textAlign': 'center'}),
+    html.Div(id="stats")
 ])
 
 
 @app.callback(
     [Output("prediction", "columns"),
-    Output("prediction", "data")], 
+    Output("prediction", "data"),
+    Output("stats", "children")], 
     Input("store", "data"),
     Input('submit-val', 'n_clicks'),)
 def show_data(data, n_clicks):
@@ -142,7 +144,10 @@ def show_data(data, n_clicks):
     return(
         [
             [{"name": i, "id": i, "deletable": False, "selectable": True} for i in loot_df.columns],
-            loot_df.to_dict('records')
+            loot_df.to_dict('records'),
+            html.H4(f"Predictions: {n_clicks}", style={
+                'textAlign': 'center'
+            })
         ]
     )
     
@@ -152,4 +157,4 @@ def show_data(data, n_clicks):
 
 # Run local server
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
