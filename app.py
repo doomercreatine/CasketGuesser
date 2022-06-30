@@ -27,6 +27,9 @@ with open("item_prices.json", "r") as f:
     
 with open("item_ids.json", "r") as f:
     items = json.loads(f.read())
+
+items = {k.lower(): v for k, v in items.items()}
+tables['Item'] = tables['Item'].str.lower()
 def get_rates(df):
     rolls = []
     for _, row in df.iterrows():
@@ -37,11 +40,14 @@ def get_rates(df):
 def roll_tables(table):
     rolling = True
     str_roll = ""
+    tbl = table
     while rolling:
-        new_tables = get_rates(tables[tables['Table'] == table])
+        new_tables = get_rates(tables[tables['Table'] == tbl])
         str_roll = np.random.choice(new_tables)
-        if tables.query(f'Table == "{table}" and Item == "{str_roll}"')['Amount'].values[0] != 'Table':
+        if tables.query(f'Table == "{tbl}" and Item == "{str_roll}"')['Amount'].values[0] != 'Table':
             rolling = False
+        else:
+            tbl = str_roll
     return str_roll
 
 starting = get_rates(tables[tables['Table'] == 'Start'])
@@ -146,4 +152,4 @@ def show_data(data, n_clicks):
 
 # Run local server
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server(debug=True)

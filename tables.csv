@@ -29,7 +29,7 @@ Standard,Teleport scroll table,Table,,2
 Standard,Master seed table,Table,,1
 Standard,Give half key table,Table,,1
 Standard,Blessing table,Table,,1
-Rare,Eye patch,1,,1
+Rare,Left eye patch,1,,1
 Rare,Bowl wig,1,,1
 Rare,Ale of the gods,1,,1
 Rare,Half moon spectacles,1,,1
@@ -58,8 +58,8 @@ Rare,Greater demon mask,1,,1
 Rare,Black demon mask,1,,1
 Rare,Jungle demon mask,1,,1
 Rare,Old demon mask,1,,1
-Rare,Anguish orn kit,1,,1
-Rare,Tormented orn kit,1,,1
+Rare,Anguish ornament kit,1,,1
+Rare,Tormented ornament kit,1,,1
 Rare,Master mega rare,Table,,1
 Rare,Prayer page table,Table,,1
 Rare,Master God sword orn table,Table,,1
@@ -72,61 +72,61 @@ Master mega rare,Gilded boots,1,,1
 Master mega rare,Ring of coins,1,,1
 Master mega rare,Cabbage,3,,1
 Master mega rare,Anti-venom+(4),15,,1
-Master mega rare,Torstole,50,,1
+Master mega rare,Torstol,50,,1
 Master mega rare,Gilded coif,1,,1
-Master mega rare,Gilded d'hide vamb,1,,1
-Master mega rare,Gilded d'hide top,1,,1
+Master mega rare,Gilded d'hide vambraces,1,,1
+Master mega rare,Gilded d'hide body,1,,1
 Master mega rare,Gilded d'hide chaps,1,,1
-Master mega rare,Gilded d'hide Pickaxe,1,,1
-Master mega rare,Gilded d'hide Axe,1,,1
+Master mega rare,Gilded pickaxe,1,,1
+Master mega rare,Gilded axe,1,,1
 Master mega rare,Gilded spade,1,,1
 Master mega rare,Master 3rdage table,Table,,1
 Master mega rare,Gilded table,Table,,1
-Master 3rdage table,3rd Age range coif,1,,1
-Master 3rdage table,3rd Age range top,1,,1
-Master 3rdage table,3rd Age range legs,1,,1
-Master 3rdage table,3rd Age vambraces,1,,1
-Master 3rdage table,3rd Age robe top,1,,1
-Master 3rdage table,3rd Age robe,1,,1
-Master 3rdage table,3rd Age mage hat,1,,1
-Master 3rdage table,3rd Age amulet,1,,1
-Master 3rdage table,3rd Age platelegs,1,,1
-Master 3rdage table,3rd Age platebody,1,,1
-Master 3rdage table,3rd Age full helmet,1,,1
-Master 3rdage table,3rd Age plateskirt,1,,1
-Master 3rdage table,3rd Age kiteshield,1,,1
-Master 3rdage table,3rd Age Sword,1,,1
-Master 3rdage table,3rd Age Cape,1,,1
-Master 3rdage table,3rd Age Wand,1,,1
-Master 3rdage table,3rd Age Bow,1,,1
-Master 3rdage table,3rd Age Druidic Staff,1,,1
-Master 3rdage table,3rd Age Druidic Cloak,1,,1
-Master 3rdage table,3rd Age Druidic top,1,,1
-Master 3rdage table,3rd Age Druidic bottom,1,,1
-Master 3rdage table,3rd Age Pickaxe,1,,1
-Master 3rdage table,3rd Age Axe,1,,1
-Master God sword orn table,Ags orn kit,1,,1
-Master God sword orn table,Bgs orn kit,1,,1
-Master God sword orn table,Zgs orn kit,1,,1
-Master God sword orn table,Sgs orn kit,1,,1
+Master 3rdage table,3rd age range coif,1,,1
+Master 3rdage table,3rd age range top,1,,1
+Master 3rdage table,3rd age range legs,1,,1
+Master 3rdage table,3rd age vambraces,1,,1
+Master 3rdage table,3rd age robe top,1,,1
+Master 3rdage table,3rd age robe,1,,1
+Master 3rdage table,3rd age mage hat,1,,1
+Master 3rdage table,3rd age amulet,1,,1
+Master 3rdage table,3rd age platelegs,1,,1
+Master 3rdage table,3rd age platebody,1,,1
+Master 3rdage table,3rd age full helmet,1,,1
+Master 3rdage table,3rd age plateskirt,1,,1
+Master 3rdage table,3rd age kiteshield,1,,1
+Master 3rdage table,3rd age longsword,1,,1
+Master 3rdage table,3rd age cloak,1,,1
+Master 3rdage table,3rd age wand,1,,1
+Master 3rdage table,3rd age bow,1,,1
+Master 3rdage table,3rd age druidic staff,1,,1
+Master 3rdage table,3rd age druidic cloak,1,,1
+Master 3rdage table,3rd age druidic robe top,1,,1
+Master 3rdage table,3rd age druidic robe bottoms,1,,1
+Master 3rdage table,3rd age pickaxe,1,,1
+Master 3rdage table,3rd age axe,1,,1
+Master God sword orn table,Armadyl godsword ornament kit,1,,1
+Master God sword orn table,Bandos godsword ornament kit,1,,1
+Master God sword orn table,Zamorak godsword ornament kit,1,,1
+Master God sword orn table,Saradomin godsword ornament kit,1,,1
 Master Ankou outfit table,Coins,15000,15000,2
 Master Ankou outfit table,Ankou Outfit,Table,,1
-Ankou Outfit,Ankou head,1,,1
-Ankou Outfit,Ankou body,1,,1
-Ankou Outfit,Ankou legs,1,,1
-Ankou Outfit,Ankou feet,1,,1
-Ankou Outfit,Ankou hands,1,,1
+Ankou Outfit,Ankou mask,1,,1
+Ankou Outfit,Ankou top,1,,1
+Ankou Outfit,Ankou's leggings,1,,1
+Ankou Outfit,Ankou socks,1,,1
+Ankou Outfit,Ankou gloves,1,,1
 Master Mummy outfit table,Coins,15000,15000,2
 Master Mummy outfit table,Mummy Outfit,Table,,1
-Mummy Outfit,Mummy head,1,,1
-Mummy Outfit,Mummy body,1,,1
-Mummy Outfit,Mummy legs,1,,1
-Mummy Outfit,Mummy feet,1,,1
-Mummy Outfit,Mummy hands,1,,1
+Mummy Outfit,Mummy's head,1,,1
+Mummy Outfit,Mummy's body,1,,1
+Mummy Outfit,Mummy's legs,1,,1
+Mummy Outfit,Mummy's feet,1,,1
+Mummy Outfit,Mummy's hands,1,,1
 Master Dragon orn table,Coins,15000,15000,9
 Master Dragon orn table,Dragon Orn Table,Table,,1
-Dragon Orn Table,Dragon kiteshield orn kit,1,,1
-Dragon Orn Table,Dragon platebody orn kit,1,,2
+Dragon Orn Table,Dragon kiteshield ornament kit,1,,1
+Dragon Orn Table,Dragon platebody ornament kit,1,,2
 Master seed table,Magic seed,1,1,1
 Master seed table,Yew seed,1,1,1
 Master seed table,Palm tree seed,1,1,1
@@ -163,7 +163,7 @@ Teleport scroll table,Master scroll book (empty),1,,1
 Teleport scroll table,TP Scroll,Table,,21
 TP Scroll,Nardah teleport,5,10,1
 TP Scroll,Mos le'harmless teleport,5,10,1
-TP Scroll,Mortton teleport,5,10,1
+TP Scroll,Mort'ton teleport,5,10,1
 TP Scroll,Feldip hills teleport,5,10,1
 TP Scroll,Lunar isle teleport,5,10,1
 TP Scroll,Digsite teleport,5,10,1
@@ -171,8 +171,8 @@ TP Scroll,Piscatoris teleport,5,10,1
 TP Scroll,Pest control teleport,5,10,1
 TP Scroll,Tai bwo wannai teleport,5,10,1
 TP Scroll,Lumberyard teleport,5,10,1
-TP Scroll,Charge dragonstone scroll,5,10,1
-TP Scroll,Elf camp teleport,5,10,1
+TP Scroll,Charge dragonstone jewellery scroll,5,10,1
+TP Scroll,Iorwerth camp teleport,5,10,1
 Give half key table,Loop half of key,1,,1
 Give half key table,Tooth half of key,1,,1
 Blessing table,Holy blessing,1,,1
