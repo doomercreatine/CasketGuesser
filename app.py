@@ -145,7 +145,7 @@ def show_data(data, n_clicks):
         [
             [{"name": i, "id": i, "deletable": False, "selectable": True} for i in loot_df.columns],
             loot_df.to_dict('records'),
-            html.H4(f"Predictions: {n_clicks}", style={
+            html.H4(f"Predictions: {n_clicks+1}", style={
                 'textAlign': 'center'
             })
         ]
